@@ -7,4 +7,4 @@ I wrote this years ago, as an homage to one of my favorite DOS programs as a kid
 I uploaded the game to Kongregate YEARS ago, and [you can still play it there](https://www.kongregate.com/games/dmiles96/word-invaders), today.
 
 
-The IBM PC I played it on is long gone, but now, [you can play the Apple II version](https://archive.org/details/Typing_Tutor_IV) in a WASM-based emulator.
+The IBM PC I played it on is long gone, but now, you can play [the Dos version](https://dosgamezone.com/game/typing-tutor-iv-4173.html) or [the Apple II version](https://archive.org/details/Typing_Tutor_IV) in a WASM-based emulator.
